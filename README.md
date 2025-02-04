@@ -5,4 +5,4 @@ Script helps install jenkins on host machine and configure to use port 8081 to a
 OS supported: Ubuntu/Debian and CentOS/RHEL
 Packages insatlled: Java17 and Jenkins LTS
 
-### Usage : ./jenkins.sh
+Usage : ./jenkins.sh
